@@ -1,0 +1,6 @@
+FIND_PACKAGE_MESSAGE_DETAILS_Python:INTERNAL=[C:\Users\dev-admin\Desktop\c_root\libtorch_1733121731501\_h_env\python.exe][C:/Users/dev-admin/Desktop/c_root/libtorch_1733121731501/_h_env/libs/python312.lib][C:/Users/dev-admin/Desktop/c_root/libtorch_1733121731501/_h_env/include][C:\Users\dev-admin\Desktop\c_root\libtorch_1733121731501\_h_env\Lib\site-packages\numpy\_core\include][cfound components: Interpreter Development.Module NumPy ][v3.12.8()]
+FIND_PACKAGE_MESSAGE_DETAILS_PythonInterp:INTERNAL=[C:/Users/dev-admin/Desktop/c_root/libtorch_1733121731501/_h_env/python.exe][v3.12.8()]
+PYTHON_MODULE_EXTENSION:INTERNAL=.cp312-win_amd64.pyd
+Python_INTERPRETER_PROPERTIES:INTERNAL=Python;3;12;8;64;<none>;cp312-win_amd64;;C:\Users\dev-admin\Desktop\c_root\libtorch_1733121731501\_h_env\Lib;C:\Users\dev-admin\Desktop\c_root\libtorch_1733121731501\_h_env\Lib;C:\Users\dev-admin\Desktop\c_root\libtorch_1733121731501\_h_env\Lib\site-packages;C:\Users\dev-admin\Desktop\c_root\libtorch_1733121731501\_h_env\Lib\site-packages
+Python_LIBRARY_RELEASE:INTERNAL=C:/Users/dev-admin/Desktop/c_root/libtorch_1733121731501/_h_env/libs/python312.lib
+Python_RUNTIME_LIBRARY_RELEASE:INTERNAL=C:/Users/dev-admin/Desktop/c_root/libtorch_1733121731501/_h_env/python312.dll
